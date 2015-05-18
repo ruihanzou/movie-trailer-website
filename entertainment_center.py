@@ -1,16 +1,15 @@
 # -*- coding: utf-8 -*-
-author__= 'ruihanzou'
-"""
-open the web browser with 6 customized movies. 
-"""
 import media
 import fresh_tomatoes
-
+__author__ = 'ruihanzou'
+"""
+open the web browser with 6 customized movies.
+"""
 the_pursuit_of_happyness = media.Movie(
     "The Pursuit of Happyness",
     "The Pursuit of Happyness is a 2006 American biographical drama film \
     based on Chris Gardner's nearly one-year struggle with homelessness.",
-    "http://upload.wikimedia.org/wikipedia/en/thumb/8/81/Poster-pursuithappyness.jpg/220px-Poster-pursuithappyness.jpg",
+    "http://tinyurl.com/khwo3sz",
     "https://youtu.be/SYg7RRYKWGw")
 catch_me_if_you_can = media.Movie(
     "Catch Me If you can",
@@ -18,14 +17,14 @@ catch_me_if_you_can = media.Movie(
     successfully performed cons worth millions of dollars by posing as \
     a Pan American World Airways pilot, a Georgia doctor, \
     and a Louisiana parish prosecutor..",
-    "http://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Catch_Me_If_You_Can_2002_movie.jpg/220px-Catch_Me_If_You_Can_2002_movie.jpg",
+    "http://tinyurl.com/c5xryfd",
     "https://youtu.be/71rDQ7z4eFg")
 
 the_shawshank_redemption = media.Movie(
     "The Shawshank Redemption",
     "The story of Andy Dufresne, a banker who is sentenced \
     to life in ShawshankState Prison..",
-    "http://upload.wikimedia.org/wikipedia/en/thumb/8/81/ShawshankRedemptionMoviePoster.jpg/220px-ShawshankRedemptionMoviePoster.jpg",
+    "http://tinyurl.com/cpxwoaj",
     "https://youtu.be/eGfAj9ZJymo")
 
 ratatouille = media.Movie(
@@ -38,7 +37,7 @@ harry_potter = media.Movie(
     "Harry Potter and the Philosopher's Stone",
     "The story follows Harry Potter's first year at Hogwarts as he discovers \
     that he is a famous wizard and begins his magical education.",
-    "http://ia.media-imdb.com/images/M/MV5BMTYwNTM5NDkzNV5BMl5BanBnXkFtZTYwODQ4MzY5._V1_SY317_CR8,0,214,317_AL_.jpg",
+    "http://tinyurl.com/ku9ztlf",
     "https://youtu.be/PbdM1db3JbY")
 
 furious_7 = media.Movie(
